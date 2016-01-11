@@ -2,6 +2,9 @@
 
 ## UDEMY COURSE NOTES
 
+These are notes on shell scripting syntax in OSX Terminal, collected in one place for easy reference. They're based on the listed uDemy course, but will be expanded over time.
+
+
 Course is [here](https://www.udemy.com/shell-scripting-linux/learn/#/, "Course URL").
 
 ### Section 1 - Admin Stuff:
